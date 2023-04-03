@@ -29,9 +29,9 @@ The script will exit with an error message if any of the following conditions ar
 * No cost data is available for the specified period.
 
 ## Example Output
-> Enter start date for cost analysis (YYYY-MM-DD): 2023-3-01
+**Enter start date for cost analysis (YYYY-MM-DD): 2023-3-01**
 
-> Enter end date for cost analysis (YYYY-MM-DD): 2023-3-31
+**Enter end date for cost analysis (YYYY-MM-DD): 2023-3-31**
 
 > START DATE: 01/03/2023 | END DATE: 31/03/2023 | SERVICE: Amazon Elastic Compute Cloud - Compute | COST: 1024.00 USD
 
