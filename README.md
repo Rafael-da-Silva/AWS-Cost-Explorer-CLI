@@ -7,6 +7,9 @@ This script retrieves the total costs for an AWS account during a specified peri
 * boto3 library installed
 * AWS credentials with permissions to access AWS Cost Explorer
 
+## Install dependencies
+`pip install -r requirements.txt`
+
 ## Configuration
 Configure the script by setting the following variables:
 
