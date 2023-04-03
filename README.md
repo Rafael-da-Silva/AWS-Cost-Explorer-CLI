@@ -16,7 +16,8 @@ Configure the script by setting the following variables:
 
 ## Usage
 Run the script by executing the following command in the terminal:
-python aws_cost_explorer.py
+
+`python aws_cost_explorer.py
 
 The script will display the costs for each service during the specified period and the total cost for the period.
 
